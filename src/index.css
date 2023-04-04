@@ -5,5 +5,5 @@ body {
   font-family: "Roboto", sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: linear-gradient(0deg, #212529 0%, #495057 100% );
+  background-image: linear-gradient(0deg, #212529 0%, #495057 100%);
 }
